@@ -21,7 +21,7 @@ public class Main {
 
 
         //Hacer doble bucle for/for
-
+        String user = config[XPROD][CUSER]; //nueva linea de código añadida
 
         //CLAVE: DESARROLLO
 
